@@ -1,1 +1,31 @@
 # yerac-legal
+
+
+Gizlilik Politikası (Privacy Policy)
+Son Güncelleme: [Bugünün Tarihi]
+
+YerAc ("Uygulama") olarak gizliliğinize önem veriyoruz. Bu gizlilik politikası, uygulamamızı kullanırken verilerinizin nasıl toplandığını, kullanıldığını ve paylaşıldığını açıklar.
+
+1. Toplanan Bilgiler ve Kullanım Amaçları
+A. Fotoğraf ve Video Galerisi Erişimi
+Uygulamamız, ana işlevi olan video sıkıştırma işlemini gerçekleştirmek için cihazınızdaki fotoğraf ve video galerisine (Photo Library) erişim izni ister.
+
+Kullanım: Sadece seçtiğiniz videoları işlemek ve sıkıştırılmış versiyonlarını tekrar galerinize kaydetmek için kullanılır.
+Depolama: Videolarınız cihazınızda yerel olarak işlenir. Sunucularımıza veya başka bir yere YÜKLENMEZ.
+B. Reklamlar (Google AdMob)
+Uygulamamız, reklam gösterimi sağlamak amacıyla Google AdMob servisini kullanmaktadır. AdMob, size ilgi alanlarınıza uygun reklamlar göstermek için cihazınızla ilgili bazı verileri toplayabilir.
+
+Toplanan Veriler: Cihaz Kimliği (IDFA), Konum verileri (yaklaşık), Kullanım verileri, Tanılamalar.
+Google'ın verileri nasıl kullandığı hakkında daha fazla bilgi için: Google Gizlilik Politikası
+2. Üçüncü Taraf Hizmetleri
+Uygulama, hizmet kalitesini artırmak ve reklam gösterimi için aşağıdaki üçüncü taraf hizmetlerini kullanabilir:
+
+Google AdMob: Reklam ağları aracılığıyla reklam sunumu.
+3. Veri Güvenliği
+Kullanıcı verilerinizin (videolarınızın) güvenliği bizim için önceliklidir. Videolarınızın tamamı cihazınızın kendi işlemcisinde işlenir ve dışarıya aktarılmaz.
+
+4. İzin Yönetimi
+Uygulama ayarlarından veya cihazınızın ayarlar menüsünden "Fotoğraflar" erişim iznini ve "Takip İzni"ni (App Tracking Transparency) dilediğiniz zaman yönetebilirsiniz.
+
+5. İletişim
+Bu gizlilik politikası ile ilgili sorularınız varsa bizimle iletişime geçebilirsiniz: activemindyazilim@gmail.com 
